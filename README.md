@@ -1,4 +1,4 @@
-# Odin Project #21: Admin Dashboard
+# Odin Project #21: Homepage
 
 The goal of this Odin Project assignment was to create a responsive homepage, something one might find on a portfolio site of sorts. The purpose of this website is to showcase the projects I’ve built. To avoid repetition I created components for skills, project cards and project sections and the data comes from JavaScript objects stored in the data folder. 
 
@@ -8,7 +8,7 @@ I started and finished this project in September 2024.
 
 ## Assignment
 
-[The Odin Project - Advanced HTML and CSS - #21 Library](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-homepage)
+[The Odin Project - Advanced HTML and CSS - #21 Homepage](https://www.theodinproject.com/lessons/node-path-advanced-html-and-css-homepage)
 
 ## Technology
 
